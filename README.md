@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✋,Nama Gw xcqL</h1>
+<h1 align="center">Hi ✋,Nama Gw Gery</h1>
 <h3 align="center">Gw Adalah Seorang Programer newbie yang masih belajar C++/C# dan gw berumur 14 tinggal di Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcqll&label=Profile%20views&color=0e75b6&style=flat" alt="xcqll" /> </p>
