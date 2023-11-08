@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Your Name</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="200" height="200">
+  <img src="https://cdn.discordapp.com/attachments/868170346757517333/1171831698816782396/Snaptik.app_72927514776873402943.jpg?ex=655e1c50&is=654ba750&hm=e5bf605d90dccc31b84c52daeb41fb8051188263e7cf1455f954b72625ddf40d&" alt="Your Name" width="200" height="200">
 </p>
 
 <p align="center">
