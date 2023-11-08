@@ -1,28 +1,53 @@
-# 💫 About Me:
-✋> Hi,nama gw gery gw adalah manusia biasah yang masih belajar menjadi Programmer<br>❓> age : 14<br>
+<h1 align="center">Hello, I'm Gery Aka axcL,14 years</h1>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/868170346757517333/1171831698816782396/Snaptik.app_72927514776873402943.jpg?ex=655e1c50&is=654ba750&hm=e5bf605d90dccc31b84c52daeb41fb8051188263e7cf1455f954b72625ddf40d&" alt="Your Name" width="200" height="200">
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/V5XGRnjs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCrCLRKhzDPFUF3XFk17o2gA) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xcqLL&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xcqLL&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xcqLL&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xcqLL&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xcqLL&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/your-username">Instagram</a> •
+  <a href="https://discord.gg/XJ4pV33K">Discord</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xcqLL&icon=8&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 Donate me <3
-  Via Paypal : [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/xcqL) Via Saweria : [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://saweria.co/xcqL) 
+<p align="center">Angkat minuman mu.</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">🚀 Some of the technologies I enjoy working with:</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Code-Python-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Code-HTML5-orange" alt="HTML5">
+  <img src="https://img.shields.io/badge/Code-CSS3-blueviolet" alt="CSS3">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-VSCode-blue" alt="VSCode">
+  <img src="https://img.shields.io/badge/Tools-Git-red" alt="Git">
+  <img src="https://img.shields.io/badge/Tools-Docker-blue" alt="Docker">
+</p>
+
+---
+
+<h2 align="center">📂 My Latest Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/your-username/project-1">Project 1</a>
+  <a href="https://github.com/your-username/project-2">Project 2</a>
+  <a href="https://github.com/your-username/project-3">Project 3</a>
+</p>
+
+---
+
+<h2 align="center">💻 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true" alt="GitHub Stats">
+</p>
+
+---
+
+<p align="center">Thanks for visiting my profile! Feel free to connect with me.</p>
+
+<p align="center">💬 Let's collaborate and build amazing projects together!</p>
