@@ -8,7 +8,7 @@ import { brain } from "smth oppenheimer";
 - 🎁 My Language : **Node JS, Python, CSS, HTML, Java Script** <br /><br />
 
 ## My Statistics
-<a href="https://github.com/tya-dittyaa/">
+<a href="https://github.com/xcqLL">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tya-dittyaa&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
 </a>
 <br>
