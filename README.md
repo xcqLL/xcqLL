@@ -4,8 +4,8 @@ import discord-bot-developer from "smth oppenheimer";
 import { brain } from "smth oppenheimer";
 ```
 
-- 😎 I’m currently learning code everything
-- 🎁 I coded Discord Bot named **Hanna Chan** and got Verified Bot by Discord <br /><br />
+- 😎 I’m currently learning python 
+- 🎁 My Language : **Node JS, Python, CSS, HTML, Java Script** <br /><br />
 
 ## My Statistics
 <a href="https://github.com/tya-dittyaa/">
