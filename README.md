@@ -11,11 +11,14 @@ import { brain } from "smth oppenheimer";
 
 ## My Statistics
 <a href="https://github.com/xcqLL">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tya-dittyaa&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xcqLL&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=xcqLL&theme=gruvbox&hide_border=false)<br/>
 </a>
 <br>
 
 ## My Discord Server
 [![Discord Banner 1](https://discordapp.com/api/guilds/739460799810240533/widget.png?style=banner1)]([https://discord.gg/BPQBmwTemY](https://discord.gg/WsBzmxwX))<br />
-
 </div>
+
+> [![](https://visitcount.itsvg.in/api?id=xcqLL&icon=0&color=0)](https://visitcount.itsvg.in)
+
