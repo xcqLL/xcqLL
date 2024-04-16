@@ -13,13 +13,7 @@ import { brain } from "smth oppenheimer";
 </a>
 <br>
 
-## My Discord Bots
-<a href="https://top.gg/bot/723092028396797982">
-  <img src="https://top.gg/api/widget/723092028396797982.svg">
-</a>
-<br>
-
 ## My Discord Server
-[![Discord Banner 1](https://discordapp.com/api/guilds/739460799810240533/widget.png?style=banner1)](https://discord.gg/BPQBmwTemY)<br />
+[![Discord Banner 1](https://discordapp.com/api/guilds/739460799810240533/widget.png?style=banner1)]([https://discord.gg/BPQBmwTemY](https://discord.gg/WsBzmxwX))<br />
 
 </div>
